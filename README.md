@@ -11,4 +11,4 @@ The main reason behind this project is only study purposes, and to follow my gen
  
  Also I had to learn how to install, manage and compile programs with external dependencies, wich generated a bit of trouble
  
- Now I guess I will have to add 10 years of experience in Go and Gin on my linkedin profile, to get to know a recruiter :P
+ Now I guess I will have to add 10 years of experience in Go and Gin on my linkedin profile, to have the chance to get the goldfish attention span of a recruiter on my profile :P
